@@ -1,2 +1,2 @@
 # flutter-church
-Flutter based Church application
+This application is a flutter based Church application. 
